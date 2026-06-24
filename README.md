@@ -54,7 +54,3 @@ Application accessible sur `http://localhost:3000`
 ## ⚠️ Avertissement de sécurité
 
 Application générée automatiquement par Claude dans le cadre d'une étude académique sur les vulnérabilités du code généré par IA. **Non destinée à un déploiement en production** sans audit préalable.
-
-## Licence
-
-Projet académique — Atelier pratique en cybersécurité 2025
